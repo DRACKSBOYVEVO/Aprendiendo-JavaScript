@@ -1,0 +1,23 @@
+Aunque no lo creas el lenguaje nunca iba a llamarse Javascript ! O al menos
+en su comienzo. El creador, Brendan Eich, establece como primer nombre
+Mocha en 1995, mientras éste trabajaba dentro de la empresa Netscape.
+
+Luego de un par de meses el nombre cambiaría a LiveScript con la compra
+de Netscape por parte de la compañía dueña del lenguaje Java, Sun
+Microsystems, se elige el nombre que todos ya conocemos...Javascript.
+
+En 1997 se crea ECMA, de las siglas European Computer Manufacturers,
+un comité que logra crear un diseño estándar de nuestro querido DOM para
+poder evitar cualquier tipo de incompatibilidades entre los diferentes
+navegadores. Eh ahí que desde entonces Javascript basa sus estándares en el
+llamado ECMAScript.
+
+En el transcurso de los años el lenguaje va siendo actualizado, aunque de
+una manera muy lenta. La versión utilizada actualmente es la llamada
+ECMAScript 2015 o también ES6, el cual tuvo aprobación y compatibilidad
+en los navegadores a partir del 2016 y en algunos otros desde el 2018.
+
+En la actualidad se intenta que haya una versión nueva por año, pero la
+velocidad con la que se logra su compatibilidad con los navegadores es muy
+diferente entre ellos, creando así pequeños estándares que dé a poco van
+teniendo pequeñas mejoras.
