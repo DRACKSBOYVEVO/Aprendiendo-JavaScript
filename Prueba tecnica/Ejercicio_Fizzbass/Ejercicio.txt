@@ -1,3 +1,20 @@
 Imprimir una lista de numeros, de x a y, y cuando el numero de esa lista
 multiplo de 3, imprimamos la palabra "fish", y cuando sea multiplo de 5 
 imprima la palabra "bass", y si el numero es multiple de 3 y de 5, imprimamos "fizzbass".
+
+1. npm install
+2. npm init
+3. npm -i -D init
+npx jest --init
+
+Preguntas:
+-yes
+-no
+-node 
+-yes 
+-v8 
+-yes 
+
+ejecutar las pruebas: npm test o npm jest --watchAll, o ejecutarlos desde el package.json 
+
+ejecutar el programa: npm fizzbuzz
