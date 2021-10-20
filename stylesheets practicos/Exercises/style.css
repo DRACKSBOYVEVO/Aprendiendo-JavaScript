@@ -1,0 +1,12 @@
+
+/*" text-gradient " in CSS*/
+h5 {
+    background: 
+        linear-gradient(90deg, #faf0f5, #C173FF);
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+    font-size: 50px;
+    font-weight: 700;
+}
+
